@@ -33,4 +33,12 @@ Random Forest (15 trees)|	97%
 Random Forest (15 trees) without FBI|	38 %
 Random Forest w/o FBI w/ (with cluster targets)|	73 % (15 trees)
 
+**Visualzing Results**
+<br />
 ![CrimesPerWard](./images/map.png)
+<br />
+![CrimesPerWard](./images/output.png)
+<br />
+![CrimesPerWard](./images/clustering.png)
+<br />
+![CrimesPerWard](./images/roc.png)
