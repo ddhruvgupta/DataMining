@@ -9,6 +9,9 @@ Specifically, carrying out performance comparison of a multi class – classifie
 **Step**
 
   •	 Conduct data cleaning <br/>
+  
+  ![A test image](../images/imputation.png)
+  
   •	 Visualize initial trends in crime data <br/>
   •	 Conduct exploratory data analysis (EDA) to find the most important variables for predicting type crime <br/>
   •	 Confirm that such a prediction is possible to make using machine learning techniques <br/>
@@ -29,3 +32,7 @@ Random Forest (2 tree)|	91 %
 Random Forest (15 trees)|	97%
 Random Forest (15 trees) without FBI|	38 %
 Random Forest w/o FBI w/ (with cluster targets)|	73 % (15 trees)
+
+
+
+
