@@ -16,11 +16,11 @@ https://www.kaggle.com/currie32/crimes-in-chicago/downloads/Chicago_Crimes_2012_
 
 **Results**
 
-Classifier	      Accuracy
-Naïve Bayes (Arrests)	84 %
-Radom Forrest (Arrests)	86 %
-Random Forest (1 tree) 	93 %
-Random Forest (2 tree)	91 %
-Random Forest (15 trees)	97%
-Random Forest (15 trees) without FBI	38 %
-Random Forest w/o FBI w/ (with cluster targets)	73 % (15 trees)
+Classifier | Accuracy
+Naïve Bayes (Arrests) |	84 %
+Radom Forrest (Arrests)|	86 %
+Random Forest (1 tree) |	93 %
+Random Forest (2 tree)|	91 %
+Random Forest (15 trees)|	97%
+Random Forest (15 trees) without FBI|	38 %
+Random Forest w/o FBI w/ (with cluster targets)|	73 % (15 trees)
